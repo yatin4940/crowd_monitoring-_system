@@ -87,8 +87,3 @@ Run the system on the included sample or a webcam and verify:
 5. Heatmap brightens in areas where people linger
 6. Analytics panel shows correct scene state
 
----
-
-## Screenshots
-
-Add screenshots of the running system to this section after testing.
