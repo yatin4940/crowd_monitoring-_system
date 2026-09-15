@@ -7,27 +7,6 @@ curriculum.
 
 ---
 
-## Features
-
-| Feature | Module covered |
-|---|---|
-| Image preprocessing (Gaussian blur, gamma, histogram equalisation, morphological ops) | M2 |
-| Canny edge overlay (debug mode) | M3 |
-| Corner detection via Shi-Tomasi inside motion regions | M3 |
-| Background subtraction (MOG2) for motion analysis | M3 |
-| YOLOv8 person detection | M5 |
-| Centroid-based multi-object tracking with persistent IDs | M5 |
-| Entry/exit line counting | M5 |
-| Configurable rectangular zone monitoring | — |
-| Overcrowding alerts with cooldown | — |
-| Crowd density heatmap (Gaussian accumulation + JET colour map) | M4 |
-| K-Means spatial clustering of person centroids | M4 |
-| KNN density classification per zone | M5 |
-| PCA crowd-spread index | M5 |
-| Naive Bayes scene-state classifier (Safe/Caution/Danger) | M5 |
-
----
-
 ## Technologies Used
 
 - Python 3.9+
